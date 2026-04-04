@@ -23,12 +23,12 @@ const socialLinks: SocialLink[] = [
   },
   {
     title: "Messenger Group",
-    url: "https://uxelbi.org/messenger",
+    url: "https://messenger.uxelbi.org",
     icon: FaFacebookMessenger,
   },
   {
     title: "Discord",
-    url: "https://uxelbi.org/discord",
+    url: "https://discord.uxelbi.org",
     icon: FaDiscord,
   },
   {
